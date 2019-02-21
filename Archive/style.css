@@ -1,0 +1,16 @@
+.redtext {
+	color: red;
+}
+
+#cursivetext {
+	font-family: cursive;
+}
+
+#redbkgd {
+	background-color: red;
+	font-size: 20px;
+}
+
+span{
+	font-style: italic;
+}
